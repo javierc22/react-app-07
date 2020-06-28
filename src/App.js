@@ -1,8 +1,17 @@
-import React from 'react';
+import React, { Fragment } from 'react';
+import Header from './components/Header';
 
 function App() {
   return (
-    <h2>Noticias</h2>
+    <Fragment>
+      <Header 
+        titulo="Buscador de Noticias"
+      />
+
+      <div className="container white">
+        <h1>Formulario</h1>
+      </div>
+    </Fragment>
   );
 }
 
