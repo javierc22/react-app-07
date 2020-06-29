@@ -1,8 +1,11 @@
+# React app 07: Buscador de Noticias con una API
 
+<img src="./img-app.jpg" height="500" />
 
 
 * API: https://newsapi.org/
 
+-------------------------------------------------------------------------------------------
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
